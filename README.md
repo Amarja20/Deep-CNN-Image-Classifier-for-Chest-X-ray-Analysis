@@ -1,4 +1,4 @@
-# Image Classifier for Chest X-ray Analysis
+# Deep CNN Image Classifier for Chest X-ray Analysis
 
 # Motivation
 
